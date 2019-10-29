@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+<link href="__ROOT__/img/fav-logo.png" rel="shortcut icon" type="image/x-icon" />
+<link href="__ROOT__/css/design.css" rel="stylesheet" type="text/css" />
+<link href="__ROOT__/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="__ROOT__/tablesorter/js/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="__ROOT__/tablesorter/js/jquery.tablesorter.widgets.js"></script>
+
+<script>
+$(document).ready(function() 
+    { 
+        $('#countries_index').tablesorter(); 
+    } 
+);
+</script>
+
+<title>WPC: List of Countries</title>
+</head>
+<body>
+__HEADER_SIDE__
+<div id="main">
+	<h2>List of countries</h2>
+	<table id="countries_index" class="tablesorter">
+	<thead>
+	<tr>
+	<th>Code</th>
+	<th>Country</th>
+	<th>National WPF member site</th>
+	<th>WPC Host</th>
+	</tr>
+	</thead>
+	<tbody>
+	__TABLE__
+	</tbody>
+	</table>
+</div>
+__FOOTER__
+</body>
+</html>
