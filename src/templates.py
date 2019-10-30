@@ -30,6 +30,8 @@ def initial_replace(html, type):
     html = html.replace("__HEADER_PREVIOUS_YEAR__", config.previous_year)
     html = html.replace("__HEADER_PREVIOUS_YEAR_HOMEPAGE__", t_db_y[config.previous_year]["homepage"])
     html = html.replace("__HEADER_NEXT_YEAR__", config.next_year)
+    if t_db_y[config.next_year]["homepage"] == "":
+        html = html.replace("__HEADER_NEXT_YEAR_HOMEPAGE__", "koiastv.com")
     html = html.replace("__HEADER_NEXT_YEAR_HOMEPAGE__", t_db_y[config.next_year]["homepage"])
     html = html.replace("__FOOTER__", get("footer"))
     return html
