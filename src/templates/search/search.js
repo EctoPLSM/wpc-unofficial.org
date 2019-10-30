@@ -93,6 +93,7 @@
                 var row = t_row.replace(/{{name}}/g, students[i].name)
                     .replace(/{{code}}/g, students[i].code)
                     .replace(/{{country}}/g, countries[students[i].code])
+                    .replace(/{{team}}/g, students[i].tier)
                     .replace(/{{year}}/g, students[i].year)
                     .replace(/{{official}}/g, students[i].official_rank)
                     .replace(/{{position}}/g, students[i].rank);
