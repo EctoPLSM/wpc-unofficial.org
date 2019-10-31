@@ -43,7 +43,7 @@ def run(code):
             rowhtml = rowhtml.replace("__TEAM__", participant["tier"])
             rowhtml = rowhtml.replace("__OFFICIAL_RANK__", participant["official_rank"])  
             tablehtml += rowhtml
-    else:
+    elif code == "UN":
         for participant in p_db:
             if "UN" in participant["tier"]:
                 rowhtml = templates.get("countries/code/individual_row")
@@ -52,7 +52,7 @@ def run(code):
                 rowhtml = rowhtml.replace("__YEAR__", participant["year"])
                 rowhtml = rowhtml.replace("__TEAM__", participant["tier"])
                 rowhtml = rowhtml.replace("__OFFICIAL_RANK__", participant["official_rank"])  
-                tablehtml += rowhtml 
+                tablehtml += rowhtml
 
     html = html.replace("__TABLE__", tablehtml)
     html = templates.final_replace(html, "../..")
