@@ -20,11 +20,11 @@ def copyfile(_from, to):
     writefile(to, readfile(_from))
         
 def ordinal(number):
-    if number[-1] == "1":
+    if number != "11" and number[-1] == "1":
         return "st"
-    elif number[-1] == "2":
+    elif number != "12" and number[-1] == "2":
         return "nd"
-    elif number[-1] == "3":
+    elif number != "13" and number[-1] == "3":
         return "rd"
     else:
         return "th"
