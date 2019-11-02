@@ -8,7 +8,6 @@ You can build the project by running main.py from src folder. This extracts all 
 Project is built with Python 2.7, but code is Python 3 compatible as well. Changing the version results in different line endings in some files.
 
 ### Known issues etc
-* The name of one member of Canadian team in 1992 is missing.
-* So are details on competition of the following years: 2010, 2007, 2001 - 1992.
-* I want to include the logos and instruction booklets of each competition in the website but I haven't contacted WPF abou this yet.
+* Years with missing informations: 2010, 2007, 2001 - 1992.
+* I want to include the logos and instruction booklets of each competition in the website but I haven't contacted WPF about this yet. -> contacted, waiting for response. 
 * I'm not sure if I should make individual pages as imo-official.org does.
