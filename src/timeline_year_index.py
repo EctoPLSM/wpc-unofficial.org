@@ -94,17 +94,17 @@ def run(year):
     html = html.replace("__TABLE__", tablehtml)
    
     if flag_special:
-        html = html.replace("__SPECIAL__", "* This round adopted a scoring system whose maximum score couldn't be defined. The score of best individual or team is shown instead.")
+        html = html.replace("__SPECIAL__", "* This round adopted a scoring system whose maximum score couldn't be defined. The score of best individual or team is shown instead.<br>")
     else:
         html = html.replace("__SPECIAL__", "")
 
     if flag_cancel:
-        html = html.replace("__CANCEL__", "# This round had been cancelled for various reasons.")
+        html = html.replace("__CANCEL__", "# This round had been cancelled for various reasons.<br>")
     else:
         html = html.replace("__CANCEL__", "")
     
     if flag_unknown:
-        html = html.replace("__UNKNOWN__", "Some information are missing from this table. If you can fill in the blank, please contact the webmaster: <a href=\"mailto:__WEBMASTER__\">__WEBMASTER__")
+        html = html.replace("__UNKNOWN__", "Some information are missing from this table. If you can fill in the blank, please contact the webmaster: <a href=\"mailto:__WEBMASTER__\">__WEBMASTER__<br>")
     else:
         html = html.replace("__UNKNOWN__", "")
 
