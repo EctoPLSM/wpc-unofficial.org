@@ -104,7 +104,7 @@ def run(year):
         html = html.replace("__CANCEL__", "")
     
     if flag_unknown:
-        html = html.replace("__UNKNOWN__", "Some information are missing from this table. If you can fill in the blank, please contact the webmaster: <a href=\"mailto:__WEBMASTER__\">__WEBMASTER__<br>")
+        html = html.replace("__UNKNOWN__", "Some information are missing from this table. If you can fill in the blank, please contact the webmaster: <a href=\"mailto:__WEBMASTER__\">__WEBMASTER__</a>.<br>")
     else:
         html = html.replace("__UNKNOWN__", "")
 
