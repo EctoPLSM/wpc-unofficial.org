@@ -4,7 +4,6 @@
 import index
 import e404
 import timeline
-import instructions
 import countries
 import search
 import links
@@ -16,7 +15,6 @@ def run():
     index.run()
     e404.run()
     timeline.run()
-    instructions.run()
     countries.run()
     search.run()
     links.run()
