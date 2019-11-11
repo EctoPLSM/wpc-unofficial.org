@@ -78,17 +78,17 @@ def run(year):
             team_rounds_row = ""
             for i in range(0, team_rounds+1):
                 if i == 0:
-                    team_rounds_row += "<td align=\"right\" data-sortinitialorder=\"desc\">" + row["team_total"] + "</td>\n"
+                    team_rounds_row += "<td align=\"right\">" + row["team_total"] + "</td>\n"
                 else:
-                    team_rounds_row += "<td align=\"right\" data-sortinitialorder=\"desc\">" + row["team_" + str(i)] + "</td>\n"
+                    team_rounds_row += "<td align=\"right\">" + row["team_" + str(i)] + "</td>\n"
             rowhtml = rowhtml.replace("__TEAM_ROUNDS__", team_rounds_row)
 
             individual_rounds_row = ""
             for i in range(0, individual_rounds+1):
                 if i == 0:
-                    individual_rounds_row += "<td align=\"right\" data-sortinitialorder=\"desc\">" + row["individual_total"] + "</td>\n"
+                    individual_rounds_row += "<td align=\"right\">" + row["individual_total"] + "</td>\n"
                 else:
-                    individual_rounds_row += "<td align=\"right\" data-sortinitialorder=\"desc\">" + row["individual_" + str(i)] + "</td>\n"
+                    individual_rounds_row += "<td align=\"right\">" + row["individual_" + str(i)] + "</td>\n"
             rowhtml = rowhtml.replace("__INDIVIDUAL_ROUNDS__", individual_rounds_row)
             tablehtml += rowhtml
     html = html.replace("__TABLE__", tablehtml)
