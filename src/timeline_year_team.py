@@ -37,8 +37,8 @@ def run(year):
     
     individual_rounds = 0
     team_rounds = 0
-    individual_column = "<th>Total</th>\n"
-    team_column = "<th>Total</th>\n"
+    individual_column = "<th data-sortinitialorder=\"desc\">Total</th>\n"
+    team_column = "<th data-sortinitialorder=\"desc\">Total</th>\n"
     tablehtml = ""
     prevcode = ""
     prevrank = 0
@@ -55,9 +55,9 @@ def run(year):
             for row in r_db_y[year]:
                 if row["points"] != "#":
                     if row["type"] == "Individual":
-                        individual_column += "<th>" + row["number"].split(" ")[-1] + "</th>\n"
+                        individual_column += "<th data-sortinitialorder=\"desc\">" + row["number"].split(" ")[-1] + "</th>\n"
                     else:
-                        team_column += "<th>" + row["number"].split(" ")[-1] + "</th>\n"
+                        team_column += "<th data-sortinitialorder=\"desc\">" + row["number"].split(" ")[-1] + "</th>\n"
         html = html.replace("__TEAM__", "<th class=\"sorter-false\" colspan=\"" +  str(team_rounds+1) + "\">Team Rounds</th>\n")
         html = html.replace("__INDIVIDUAL__", "<th class=\"sorter-false\" colspan=\"" +  str(individual_rounds+1) + "\">Individual Rounds</th>\n")
         html = html.replace("__TEAM_DETAILS__", team_column)

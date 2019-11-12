@@ -9,6 +9,7 @@ from database_timeline import next_year
 from database_countries import code_to_country
 from database_participants import year_grouped as p_db_y
 from database_rounds import year_grouped as r_db_y
+from config import next_year as ny
 
 def run(year):
     print("Creating timeline/" + year + "/index")
@@ -67,7 +68,14 @@ def run(year):
     else:
         html = html.replace("__HOMEPAGE_STYLE__", "display: none;")
         html = html.replace("__HOMEPAGE__", ".") # Google crawler fix
-    
+
+    if year == ny:
+            html = html.replace("__BOOKLET__", " ")
+    elif int(year) in range(1992, 1998) or int(year) in [2000, 2001, 2007, 2010]:
+            html = html.replace("__BOOKLET__", "missing")
+    else:
+            html = html.replace("__BOOKLET__", "<a href = \"../../pdfs/WPC " + year + ".pdf\">PDF</a>")
+
     tablehtml = ""
     flag_special = False
     flag_cancel = False
