@@ -9,5 +9,5 @@ Project is built with Python 2.7, but code is Python 3 compatible as well. Chang
 
 ### Known issues etc
 * Years with missing informations: 2010, 2007, 2001 - 1992.
-* I want to include the logos and instruction booklets of each competition in the website but I haven't contacted WPF about this yet. -> contacted, waiting for response. 
+* Inclusion of competition logos into timeline_year_index.
 * I'm not sure if I should make individual pages as imo-official.org does.
