@@ -69,6 +69,10 @@ def run(year):
         html = html.replace("__HOMEPAGE_STYLE__", "display: none;")
         html = html.replace("__HOMEPAGE__", ".") # Google crawler fix
 
+    if int(year) <= 2010:
+        html = html.replace("__LOGO__", "WPC "+year)
+    else:
+        html = html.replace("__LOGO__", "WSPC "+year)
     if year == ny:
             html = html.replace("__BOOKLET__", " ")
     elif int(year) in range(1992, 1998) or int(year) in [2000, 2001]:
