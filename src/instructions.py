@@ -20,7 +20,7 @@ def run():
         if row["year"] == next_year:
             rowhtml = rowhtml.replace("__BOOKLET__", " ")
             rowhtml = rowhtml.replace("__NOTE__", " ")
-        if int(row["year"]) in range(1992, 1998) or int(row["year"]) in [2000, 2001, 2007]:
+        if int(row["year"]) in range(1992, 1998) or int(row["year"]) in [2000, 2001]:
             rowhtml = rowhtml.replace("__BOOKLET__", " ")
             rowhtml = rowhtml.replace("__NOTE__", "missing")
         else:

@@ -71,7 +71,7 @@ def run(year):
 
     if year == ny:
             html = html.replace("__BOOKLET__", " ")
-    elif int(year) in range(1992, 1998) or int(year) in [2000, 2001, 2007]:
+    elif int(year) in range(1992, 1998) or int(year) in [2000, 2001]:
             html = html.replace("__BOOKLET__", "missing")
     elif int(year) == 1999:
             html = html.replace("__BOOKLET__", "<a href = \"../../pdfs/WPC " + year + ".pdf\">PDF, without team rounds</a>")
