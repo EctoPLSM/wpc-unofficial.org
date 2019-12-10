@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-webmaster_email = "wpc_unofficial@gmail.com"
+webmaster_email = "wpc.unofficial@gmail.com"
 
 # Technically, these can be non-consecutive
 previous_year = "2019"
