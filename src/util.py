@@ -8,11 +8,11 @@ def makedirs(path):
         pass
 
 def readfile(path):
-    with open(path, 'r', errors='ignore') as file:
+    with open(path, 'r', encoding="utf-8") as file:
         return file.read()
 
 def writefile(path, content):
-    with open(path, 'w', errors='ignore') as file:
+    with open(path, 'w', encoding="utf-8") as file:
         return file.write(content)
         
 def copyfile(_from, to):
