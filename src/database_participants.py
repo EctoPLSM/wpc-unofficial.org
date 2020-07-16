@@ -6,7 +6,7 @@ database = []
 code_grouped = {}
 year_grouped = {}
 
-with open("database/participants.csv") as file:
+with open("database/participants.csv", errors='ignore') as file:
     reader = csv.reader(file)
     for row in reader:
         entry = {
