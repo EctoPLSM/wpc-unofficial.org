@@ -7,7 +7,7 @@ code_grouped = {}
 previous_year = {}
 next_year = {}
 
-with open("database/timeline.csv") as file:
+with open("database/timeline.csv", encoding="utf-8") as file:
     reader = csv.reader(file)
     prev = ""
     for row in reader:
