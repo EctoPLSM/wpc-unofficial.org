@@ -13,11 +13,10 @@ def run():
     html = templates.initial_replace(html, 4)
     
     tablehtml = ""
-    upcominghtml = ""
     for row in t_db:
         rowhtml = templates.get("instructions/index_row")
         rowhtml = rowhtml.replace("__YEAR__", row["year"])
-        if row["year"] == next_year:
+        if row["year"] >= next_year:
             rowhtml = rowhtml.replace("__BOOKLET__", " ")
             rowhtml = rowhtml.replace("__NOTE__", " ")
         if int(row["year"]) in range(1992, 1998) or int(row["year"]) in [2000, 2001]:
@@ -32,8 +31,6 @@ def run():
         if int(row["year"]) <= int(config.next_year) + 2:
             # Reverse list
             tablehtml = rowhtml + tablehtml
-        else:
-            upcominghtml = rowhtml + upcominghtml
     html = html.replace("__TABLE__", tablehtml)
     
     html = templates.final_replace(html, "..")
