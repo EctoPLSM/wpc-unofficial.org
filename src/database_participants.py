@@ -39,7 +39,7 @@ with open("database/participants.csv", encoding="utf-8") as file:
             "individual_17": row[26],
         }
         if entry["code"] != "???" and entry["code"] not in c_t_c:
-            raise Exception("Student database corrupted! Row: {}".format(row))
+            raise Exception("Competitor database corrupted! Row: {}".format(row))
         database.append(entry)
         if entry["code"] not in code_grouped:
             code_grouped[entry["code"]] = []

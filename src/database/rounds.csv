@@ -1,330 +1,345 @@
-2019,3rd October,09:00 - 09:30,Individual,Round 1,Welcome,30,350,
-2019,3rd October,09:45 - 11:15,Individual,Round 2,Assorted Puzzles,90,1100,
-2019,3rd October,11:30 - 12:15,Individual,Round 3,Permaculture,45,450,
-2019,3rd October,15:00 - 15:30,Individual,Round 4,Roundabout,30,250,
-2019,3rd October,15:45 - 16:45,Individual,Round 5,German Style Puzzles,60,700,
-2019,3rd October,17:15 - 18:00,Team,Round 6,Patches,45,2000,
-2019,3rd October,18:15 - 19:00,Team,Round 7,Worms,45,1800,
-2019,4th October,09:00 - 10:00,Individual,Round 8,Twilight,60,600,
-2019,4th October,10:15 - 10:45,Individual,Round 9,Miniatures,30,250,
-2019,4th October,11:00 - 12:15,Individual,Round 10,WPC 28,75,850,
-2019,4th October,15:00 - 16:00,Individual,Round 11,Irregular,60,700,
-2019,4th October,16:15 - 17:15,Individual,Round 12,Innovations,60,700,
-2019,4th October,17:45 - 19:00,Team,Round 13,Loopfinder,75,3000,
-2019,5th October,09:00 - 09:35,Individual,Round 14,Jigsaw Kropki,35,300,
-2018,8th November,09:00 - 09:45,Individual,Round 1,Shading,45,590,
-2018,8th November,10:00 - 10:40,Individual,Round 2,Objects,40,430,
-2018,8th November,11:05 - 12:05,Individual,Round 3,Skyscrapers,60,595,
-2018,8th November,14:00 - 15:00,Individual,Round 4,Polygons,60,750,
-2018,8th November,15:15 - 16:45,Individual,Round 5,Variations,90,1025,
-2018,8th November,17:10 - 18:40,Individual,Round 6,Combinations,90,930,
-2018,9th November,09:00 - 09:45,Individual,Round 7,Paths,45,550,
-2018,9th November,10:00 - 10:45,Individual,Round 8,Dissections,45,580,
-2018,9th November,11:10 - 12:10,Individual,Round 9,Numbers,60,800,
-2018,9th November,14:00 - 14:45,Individual,Round 10,Double Trouble,45,450,
-2018,9th November,15:00 - 15:45,Individual,Round 11,Regional,45,590,
-2018,9th November,16:00 - 17:00,Individual,Round 12,Innovative,60,690,
-2018,9th November,17:25 - 17:55,Team,Team Round 1,Combined,30,1800,
-2018,9th November,18:10 - 18:55,Team,Team Round 2,Hexa,45,3000,
-2018,10th November,09:00 - 10:30,Individual,Round 13,Twisted,90,810,
-2018,10th November,10:00 - 11:30,Team,Team Round 3,Ariadne's Thread,90,4800,
-2017,19th October,09:00 - 09:40,Individual,Round 1,Road To Bangalore,40,450,
-2017,19th October,09:50 - 10:50,Individual,Round 2,Indian Puzzle Land,60,600,
-2017,19th October,11:05 - 12:30,Individual,Round 3,Evergreens,85,900,
-2017,19th October,14:00 - 15:00,Individual,Round 4,Twist,60,600,
-2017,19th October,15:10 - 15:50,Individual,Round 5,Hexed and Remixed,40,400,
-2017,19th October,16:00 - 16:45,Individual,Round 6,TVC,45,450,
-2017,19th October,17:05 - 17:40,Team,Round 7,Deception,35,1400,
-2017,19th October,17:50 - 18:30,Team,Round 8,Kashmir Carpet,40,1600,
-2017,20th October,09:00 - 10:50,Individual,Round 9,Marathon,110,1100,
-2017,20th October,11:05 - 12:05,Individual,Round 10,Parallel Universe,60,650,
-2017,20th October,12:15 - 12:40,Individual,Round 11,SVC,25,250,
-2017,20th October,14:10 - 14:50,Individual,Round 12,123 GO,40,450,
-2017,20th October,15:00 - 15:40,Individual,Round 13,No Numbers,40,400,
-2017,20th October,15:50 - 16:20,Individual,Round 14,Fillomino-Fillia,30,300,
-2017,20th October,16:50 - 17:40,Team,Round 15,Loop Pool,50,2500,
-2017,20th October,17:50 - 18:25,Team,Round 16,Sampler Platter,35,#,
-2017,21st October,09:00 - 10:00,Individual,Round 17,FAST,60,600,
-2017,21st October,10:10 - 11:30,Individual,Round 18,PIC,80,1000,
-2017,21st October,11:45 - 12:25,Individual,Round 19,Logidoku,40,500,
-2017,21st October,13:55 - 14:25,Individual,Round 20,Puzzle Fusion,30,350,
-2017,21st October,14:35 - 14:50,Individual,Round 21,Broken Pieces,15,160,
-2017,21st October,15:15 - 15:55,Team,Round 22,Don't Worry Be Happy,40,1600,
-2017,21st October,16:10 - 17:00,Team,Round 23,Word Show,50,2500,
-2016,20th October,09:00 - 09:25,Individual,Round 1,Slovakia,25,300,
-2016,20th October,09:25 - 11:10,Individual,Round 2,Miscellaneous,90,1100,
-2016,20th October,11:30 - 12:30,Individual,Round 3,Kropki,60,750,
-2016,20th October,14:10 - 14:45,Individual,Round 4,Full Classics,35,430,
-2016,20th October,15:00 - 16:00,Individual,Round 5,Finest Collection,60,720,
-2016,20th October,16:15 - 16:40,Individual,Round 6,Superpositions,25,300,
-2016,20th October,17:00 - 17:30,Individual,Round 7,Outside The Box,30,360,
-2016,20th October,17:45 - 18:30,Individual,Round 8,Oldish Style,45,650,
-2016,21st October,09:00 - 10:40,Individual,Round 9,Classics,100,1200,
-2016,21st October,11:00 - 11:35,Individual,Round 10,Myopia,35,350,
-2016,21st October,11:50 - 12:35,Individual,Round 11,Newish Style,45,650,
-2016,21st October,14:10 - 15:25,Individual,Round 12,Assorted,75,900,
-2016,21st October,15:40 - 16:20,Individual,Round 13,Irregular Classics,40,500,
-2016,21st October,17:00 - 17:30,Team,Round 14,Perplexity,30,1400,
-2016,21st October,17:40 - 18:30,Team,Round 15,Toroidal,50,2000,
-2016,22nd October,09:00 - 09:30,Team,Round 16,Stickers,30,1200,
-2016,22nd October,09:45 - 10:15,Team,Round 17,Pentominoes,30,1500,
-2015,15th October,09:00 - 09:50,Individual,Round 1,Welcome,50,400,
-2015,15th October,10:00 - 11:00,Individual,Round 2,Classics,60,600,
-2015,15th October,11:20 - 12:50,Individual,Round 3,Latin Squares,90,950,
-2015,15th October,14:30 - 15:30,Individual,Round 4,Pathfinder,60,620,
-2015,15th October,15:50 - 17:00,Individual,Round 5,Hybrids,70,700,
-2015,15th October,17:10 - 17:40,Individual,Round 6,Poker Battle,30,200,
-2015,15th October,18:10 - 18:50,Team,Round 7,Color Me in,40,2000,
-2015,16th October,09:00 - 09:50,Individual,Round 8,Instructionless,50,500,
-2015,16th October,10:00 - 10:50,Individual,Round 9,Different Areas,50,500,
-2015,16th October,11:10 - 12:50,Individual,Round 10,Something Different,100,1135,
-2015,16th October,14:30 - 15:00,Individual,Round 11,Sprint,30,365,
-2015,16th October,15:20 - 16:50,Individual,Round 12,Tough Puzzles,90,900,
-2015,16th October,17:20 - 18:20,Team,Round 13,Domino Yin-Yang,60,3000,
-2015,17th October,09:00 - 10:00,Team,Round 14,Encrypted,60,3000,
-2014,14th August,09:10 - 10:00,Individual,Round 1,Welcome,50,750,
-2014,14th August,10:15 - 10:45,Individual,Round 2,The Great Outdoors,30,450,
-2014,14th August,11:05 - 13:05,Individual,Round 3,Classics,120,1800,
-2014,14th August,14:30 - 15:30,Individual,Round 4,Latin Squares,60,900,
-2014,14th August,15:45 - 16:30,Individual,Round 5,On Your Own,45,600,
-2014,14th August,16:45 - 17:15,Individual,Round 6,Sprint,30,600,
-2014,14th August,17:45 - 18:45,Team,Round 7,Table for Four,60,3600,
-2014,15th August,09:00 - 10:00,Individual,Round 8,English Country Garden,60,900,
-2014,15th August,10:15 - 11:15,Individual,Round 9,Loop the Loop,60,900,
-2014,15th August,11:30 - 13:00,Individual,Round 10,The 200 Club,90,2000,
-2014,15th August,14:15 - 15:15,Individual,Round 11,Not Quite Classics,60,1200,
-2014,15th August,15:30 - 16:30,Individual,Round 12,Something Different,60,1200,
-2014,15th August,16:45 - 17:30,Individual,Round 13,Afternoon Tea,45,670,
-2014,15th August,17:45 - 18:45,Team,Round 14,Doppelgangers,60,3600,
-2014,16th August,09:30 - 10:45,Team,Round 15,Square Bashing,60,4600,
-2013,23rd October,09:00 - 10:00,Team,Part 1,Welcome to China!,60,2000,
-2013,23rd October,10:20 - 11:20,Individual,Part 2,Classic Puzzles,60,600,
-2013,23rd October,11:40 - 12:20,Individual,Part 3,Digital Puzzles,40,400,
-2013,23rd October,14:15 - 15:15,Individual,Part 4,Dutch Delight,60,817*,
-2013,23rd October,15:30 - 16:30,Individual,Part 5,Indian Intrigue,60,828*,
-2013,23rd October,16:45 - 17:45,Individual,Part 6,Doubled Decathlon,60,820*,
-2013,23rd October,18:00 - 19:00,Individual,Part 7,Serbian Snacks,60,770*,
-2013,24th October,09:00 - 10:00,Individual,Part 8,Black and White Matrix,60,600,
-2013,24th October,10:20 - 11:50,Individual,Part 9,Assorted Puzzles,90,900,
-2013,24th October,12:10 - 12:40,Individual,Part 10,Sprint,30,300,
-2013,24th October,14:30 - 15:00,Individual,Part 11,Visual Puzzles,30,300,
-2013,24th October,15:20 - 16:05,Individual,Part 12,The Zodiac,45,450,
-2013,24th October,16:40 - 17:40,Team,Round 13,Weakest Link Samurai,60,2000,
-2013,24th October,18:00 - 19:00,Team,Round 14,Year of Snake,60,2000,
-2012,4th October,10:00 - 10:30,Individual,Part 1,Domino Hunt,30,60,
-2012,4th October,10:45 - 12:45,Individual,Part 2,Blackjack,120,240,
-2012,4th October,14:45 - 15:45,Individual,Part 3,Twisted Puzzles,60,120,
-2012,4th October,16:00 - 16:30,Individual,Part 4,Easy as ABC,30,60,
-2012,4th October,16:45 - 18:15,Individual,Part 5,Black and White,90,180,
-2012,4th October,18:45 - 19:10,Team,Part 6,Marina,25,400,
-2012,5th October,09:30 - 10:30,Individual,Part 7,Lines & Arrows,60,120,
-2012,5th October,10:45 - 11:45,Individual,Part 8,Assorted Puzzles,60,120,
-2012,5th October,12:00 - 12:30,Individual,Part 9,Metropolis,30,60,
-2012,5th October,14:30 - 16:00,Individual,Part 10,Anthology,90,180,
-2012,5th October,16:15 - 17:15,Individual,Part 11,Something Newish,60,120,
-2012,5th October,17:30 - 18:20,Individual,Part 12,Half Dominoes,50,100,
-2012,5th October,19:00 - 19:45,Team,Part 13,Messed Up Link,45,400,
-2011,10th November,09:20 - 09:50,Individual,Part 1,In Memoriam,30,400,
-2011,10th November,10:00 - 11:00,Individual,Part 2,Assorted Puzzles,60,870,
-2011,10th November,11:10 - 12:00,Individual,Part 3,Cows,50,420,
-2011,10th November,13:50 - 14:20,Individual,Part 4,Borderless,30,430,
-2011,10th November,14:30 - 15:40,Individual,Part 5,Evergreens,70,750,
-2011,10th November,16:30 - 17:10,Team,Part 6,Board Games,40,800,
-2011,10th November,17:30 - 18:30,Team,Part 7,Naval Puzzles,60,1600,
-2011,11th November,09:00 - 09:30,Individual,Part 8,Screen Test,30,200,
-2011,11th November,09:45 - 10:15,Individual,Part 9,Sprint,30,300,
-2011,11th November,10:30 - 11:00,Individual,Part 10,Divide and Conquer,30,400,
-2011,11th November,11:11 - 11:55,Individual,Part 11,Magic 11,44,550,
-2011,11th November,13:30 - 14:50,Individual,Part 12,Hungaricum,80,1115,
-2011,11th November,15:00 - 16:00,Individual,Part 13,Innovative,60,940,
-2011,11th November,17:20 - 18:20,Individual,Part 14,Best of,60,770,
-2011,12th November,09:00 - 10:00,Team,Part 15,Wrong Puzzles!,60,1200,
-2010,26th October,09:30 - 09:49,Individual,Part 1,Welcome,19,113,
-2010,26th October,????,Individual,Part 2,Classics of WPC,60,300,
-2010,26th October,????,Individual,Part 3,Married Puzzles,45,225,
-2010,26th October,12:10 - 13:00,Team,Part 4,Anaconda,50,900,
-2010,26th October,14:30 - 15:30,Individual,Part 5,Innovations,60,300,
-2010,26th October,????,Individual,Part 6,Even/Odd,45,225,
-2010,26th October,16:30 - 17:00,Team,Part 7,Sym-a-Pix,30,600,
-2010,27th October,09:30 - 09:55,Individual,Part 8,Sprint,25,125,
-2010,27th October,????,Individual,Part 9,Assorted,90,450,
-2010,27th October,????,Individual,Part 10,Spherical Operations,25,#,
-2010,27th October,???? - 13:00,Team,Part 11,"Operation ""Kuznia""",30,600,
-2010,27th October,14:30 - 15:30,Individual,Part 12,Poliomino,60,300,
-2010,27th October,????,Individual,Part 13,Broken Puzzles,45,225,
-2010,27th October,16:20 - 17:00,Team,Part 14,Slither Link = Weakest Link,40,800,
-2010,28th October,09:00 - 09:15,Individual,Part 15,Screen Test,15,114,
-2009,5th November,09:30 - 09:50,Team,Part 1,Welcome,20,478*,
-2009,5th November,10:10 - 10:30,Individual,Part 2,Sprint,20,100,
-2009,5th November,10:40 - 12:10,Individual,Part 3,Classics,90,450,
-2009,5th November,12:25 - 12:55,Individual,Part 4,Optimization,30,213*,
-2009,5th November,14:15 - 15:45,Individual,Part 5,Innovative,90,450,
-2009,5th November,16:15 - 16:30,Individual,Part 6,Screen Test 1 - Match Math,15,80,
-2009,5th November,16:35 - 17:00,Individual,Part 7,Battleships,25,140,
-2009,5th November,17:15 - 18:00,Team,Part 8,The Weakest Link,45,900,
-2009,6th November,09:30 - 09:50,Individual,Part 9,Screen Test 2 - Assorted,20,80,
-2009,6th November,09:55 - 10:30,Individual,Part 10,Tapa,35,200,
-2009,6th November,10:40 - 11:40,Individual,Part 11,Matchmaker,60,315,
-2009,6th November,12:00 - 12:30,Team,Part 12,Four By Four For The Four,30,600,
-2009,6th November,14:00 - 14:25,Individual,Part 13,Instructionless,25,135,
-2009,6th November,14:35 - 16:45,Individual,Part 14,Best of OAPC,130,750,
-2009,6th November,17:10 - 17:40,Individual,Part 15,Upgrade,30,150,
-2009,6th November,18:00 - 18:30,Team,Part 16,WPF,30,600,
-2008,29th October,10:00 - 10:35,Individual,Part I,Welcome,35,140,
-2008,29th October,10:45 - 12:45,Individual,Part II,Mixture,120,400,
-2008,29th October,13:00 - 13:30,Team,Part III,Six Squares,30,300,
-2008,29th October,15:00 - 16:00,Team,Part IV,Weakest Link,60,750,
-2008,29th October,16:15 - 16:50,Individual,Part V,False Start,35,130,
-2008,29th October,17:00 - 18:00,Individual,Part VI,Giant Part,60,200,
-2008,30th October,10:00 - 10:30,Individual,Part VII,Sprint,30,120,
-2008,30th October,10:40 - 12:40,Individual,Part VIII,Assorted,120,400,
-2008,30th October,12:50 - 13:30,Team,Part IX,Manipulative,40,950,
-2008,30th October,15:00 - 15:30,Team,Part X,Chrono Part,30,400,
-2008,30th October,15:50 - 16:50,Individual,Part XI,Crypto Part,60,200,
-2008,30th October,17:00 - 18:00,Individual,Part XII,Cards,60,200,
-2007,8th October,09:00 - 09:40,Individual,Part 1,Welcome,40,200,
-2007,8th October,10:00 - 11:30,Individual,Part 2,Classics,90,450,
-2007,8th October,12:00 - 12:20,Team,Part 3,Multi-Sudoku,20,300,
-2007,8th October,14:00 - 15:00,Individual,Part 4,Innovatives,60,300,
-2007,8th October,15:30 - 16:10,Individual,Part 5,"Words, words",40,150,
-2007,8th October,16:30 - 17:30,Team,Part 6,The Weakest Link,60,900,
-2007,9th October,09:00 - 09:40,Individual,Part 7,Varia,40,205,
-2007,9th October,10:00 - 11:30,Individual,Part 8,Circular,90,455,
-2007,9th October,12:00 - 12:20,Individual,Part 9,Screen Test,20,100,
-2007,9th October,14:00 - 14:30,Individual,Part 10,Four Wind in Faces,30,150,
-2007,9th October,15:00 - 15:40,Individual,Part 11,Images,40,200,
-2007,9th October,16:00 - 17:30,Team,Part 12,Incredible Office Machine,90,1068*,
-2006,9th October,09:45 - 10:25,Individual,Part 1,Welcome,40,200,
-2006,9th October,10:35 - 12:05,Individual,Part 2,Assorted,90,500,
-2006,9th October,12:15 - 12:30,Individual,Part 3,Screen Test,15,100,
-2006,9th October,14:00 - 15:00,Individual,Part 4,Paint-by-Numbers,60,350,
-2006,9th October,15:10 - 16:40,Individual,Part 5,Assorted,90,500,
-2006,9th October,17:00 - 17:40,Team,Part 6,Skyscrapers,40,600,
-2006,10th October,09:30 - 09:55,Individual,Part 7,Sprint,25,150,
-2006,10th October,10:05 - 11:35,Individual,Part 8,Assorted,90,500,
-2006,10th October,11:45 - 12:25,Individual,Part 9,Twins,40,200,
-2006,10th October,14:00 - 14:40,Individual,Part 10,Hexagonal,40,200,
-2006,10th October,14:50 - 16:20,Individual,Part 11,Assorted,90,500,
-2006,10th October,16:40 - 17:40,Team,Part 12,The Weakest Link,60,750,
-2006,11th October,09:30 - 10:00,Individual,Part 13,Mitre Square,30,100,
-2006,11th October,10:20 - 11:00,Team,Part 14,Metatour,40,500,
-2005,10th October,10:10 - 10:40,Individual,Part 1,Eger Grand Prix,30,400,
-2005,10th October,10:50 - 11:20,Individual,Part 2,Streets,30,250,
-2005,10th October,11:40 - 12:10,Team,Part 3,Tantrix,30,700,
-2005,10th October,14:30 - 15:00,Individual,Part 4,Evergreens,30,250,
-2005,10th October,15:40 - 16:50,Individual,Part 5,Hungarian Style,90,1000,
-2005,10th October,17:00 - 17:30,Individual,Part 6,Spider Web,30,250,
-2005,11th October,09:30 - 10:30,Individual,Part 7,Classics,60,700,
-2005,11th October,10:40 - 11:10,Individual,Part 8,Fifty-Fifty,30,250,
-2005,11th October,11:50 - 12:10,Individual,Part 9,Screentest,20,200,
-2005,11th October,14:15 - 14:45,Team,Part 10,The Weakest Link,30,700,
-2005,11th October,15:10 - 16:50,Individual,Part 11,Innovative,100,1100,
-2005,11th October,17:00 - 17:30,Team,Part 12,Jigsaw Puzzle,30,700,
-2004,14th October,10:00 - 11:31,Individual,Part 1,Classical Puzzles,91,200,
-2004,14th October,11:44 - 12:23,Team,Part 2,Assorted Puzzles,39,800,
-2004,14th October,14:30 - 14:56,Individual,Part 3,Medley,26,100,
-2004,14th October,15:09 - 16:40,Individual,Part 4,"Memories, Memories...",91,200,
-2004,14th October,16:53 - 17:32,Individual,Part 5,Sprint I: Lucky Thirteen,39,78,
-2004,14th October,17:45 - 18:39,Team,Part 6,Jigsaw Puzzle,52,160,
-2004,15th October,09:30 - 11:01,Individual,Part 7,Pentominoes & Arrows,91,200,
-2004,15th October,11:14 - 11:53,Individual,Part 8,Optimizers,39,100,
-2004,15th October,12:06 - 12:32,Team,Part 9,Connecting Link,26,800,
-2004,15th October,14:30 - 15:09,Individual,Part 10,Sprint II: Mastermind,39,78,
-2004,15th October,15:22 - 16:53,Individual,Part 11,Innovative,91,300,
-2004,15th October,17:06 - 17:52,Team,Part 12,Card Composition,26,78,
-2003,16th October,09:30 - 10:30,Individual,Part I,The Dirty Dozen,60,230,
-2003,16th October,10:30 - 12:30,Individual,Part II,Assorted Puzzles,120,400,
-2003,16th October,14:00 - 14:30,Individual,Part III,Sprint,30,100,
-2003,16th October,14:30 - 14:55,Individual,Part IV,Medley,25,50,
-2003,16th October,15:30 - 16:15,Team,Part V,Assorted Puzzles,45,150,
-2003,16th October,16:15 - 16:30,Team,Part VI,Crossword Maze,15,300*,
-2003,17th October,09:30 - 10:15,Individual,Part VII,Dominoes,45,120,
-2003,17th October,10:15 - 12:15,Individual,Part VIII,Assorted Puzzles II,120,400,
-2003,17th October,14:00 - 14:45,Individual,Part IX,Battleships,45,120,
-2003,17th October,14:45 - 15:15,Individual,Part X,Meander,30,60,
-2003,17th October,15:45 - 16:15,Team,Part XI,City Map,30,279*,
-2003,17th October,16:30 - 17:00,Team,Part XII,The Weakest Link,30,125,
-2003,18th October,09:30 - 09:55,Individual,Part XIII,ABC,25,25,
-2003,18th October,10:30 - 11:00,Team,Part XIV,Blocks,30,125,
-2002,26th September,????,Individual,Part 1,Part 1,90,168,
-2002,26th September,????,Individual,Part 2,Part 2,45,40,
-2002,26th September,????,Individual,Part 3,Part 3,75,70,
-2002,26th September,????,Team,Part 4,Part 4,90,240,
-2002,27th September,????,Individual,Part 5,Part 5,90,148,
-2002,27th September,????,Individual,Part 6,Part 6,75,72*,
-2002,27th September,????,Individual,Part 7,Part 7,90,138,
-2002,27th September,????,Team,Part 8,Part 8,75,350,
-2001,10th October,????,Individual,Part 1,Part 1,90,???,
-2001,10th October,????,Individual,Part 2,Part 2,90,???,
-2001,10th October,????,Individual,Part 3,Part 3,12,100,
-2001,10th October,????,Individual,Part 4,Part 4,??,???,
-2001,10th October,????,Individual,Part 5,Part 5,??,???,
-2001,10th October,????,Individual,Part 6,Part 6,90,???,
-2001,11th October,????,Individual,Part 7,Part 7,90,???,
-2001,11th October,????,Individual,Part 8,Part 8,??,70,
-2001,11th October,????,Individual,Part 9,Part 9,??,???,
-2001,11th October,????,Individual,Part 10,Part 10,??,???,
-2001,11th October,????,Team,Part 11,Part 11,??,???,
-2001,12th October,????,Team,Part 12,Part 12,??,???,
-2001,12th October,????,Team,Part 13,Part 13,??,???,
-2001,12th October,????,Team,Part 14,Part 14,??,???,
-2001,12th October,????,Team,Part 15,Part 15,??,???,
-2000,13th October,????,Individual,Part I,Assorted Puzzles,120,???,
-2000,13th October,????,Individual,Part II,Lunar Lockout,45,95,
-2000,13th October,????,Team,Part III,Multi-Level Block Maze,35,200,
-2000,13th October,????,Individual,Part IV,Manipulative Puzzles,45,120,
-2000,14th October,????,Individual,Part V,Battleship Variations,90,???,
-2000,14th October,????,Team,Part VI,Potato Appeal,150,1150,
-2000,14th October,????,Individual,Part VII,Optimization,45,???,
-2000,14th October,????,Individual,Part VIII,Assorted Puzzles,150,???,
-1999,6th October,????,Team,Part 1,????,35,1000,
-1999,6th October,15:30 - 18:00,Individual,Part 2,Classics,150,1430,
-1999,7th October,09:00 - 09:35,Individual,Part 3,Optimizer,35,276*,
-1999,7th October,09:40 - 10:15,Individual,Part 4,Crack It On!,35,300,
-1999,7th October,10:45 - 13:15,Individual,Part 5,Innovative,150,1430,
-1999,7th October,????,Team,Part 6,????,??,1500,
-1999,7th October,15:40 - 16:15,Individual,Part 7,Honey Islands,35,300,
-1999,7th October,16:45 - 17:20,Individual,Part 8,The Giant Octopus,35,320,
-1999,7th October,17:25 - 18:00,Individual,Part 9,Battleship Varia,35,300,
-1999,8th October,09:00 - 11:30,Individual,Part 10,Mix,150,1430,
-1999,8th October,????,Team,Part 11,????,??,1000,
-1998,24th September,09:15 - 10:45,Individual,Part 1,Part 1,90,280,
-1998,24th September,11:00 - 11:20,Individual,Part 2,Part 2,20,20,
-1998,24th September,11:30 - 12:10,Individual,Part 3,Part 3,40,50,
-1998,24th September,12:15 - 13:00,Individual,Part 4,Part 4,45,?,
-1998,24th September,14:00 - 15:30,Individual,Part 5,Part 5,90,320,
-1998,24th September,15:50 - 17:30,Team,Part 6,Part 6,90,355,
-1998,25th September,10:00 - 11:30,Individual,Part 7,Part 7,90,320,
-1998,25th September,11:45 - 12;05,Individual,Part 8,Part 8,20,25,
-1998,25th September,12:10 - 12:50,Individual,Part 9,Part 9,40,?,
-1998,25th September,14:00 - 16:00,Individual,Part 10,Part 10,120,379,
-1998,25th September,16:20 - 16:50,Individual,Part 11,Part 11,30,50,
-1998,25th September,17:10 - 17:35,Team,Part 12,Part 12,30,400,
-1997,25th September,?,Individual,?,?,150,?,
-1997,25th September,?,Individual,?,?,150,?,
-1997,26th September,?,Individual,?,?,90,?,
-1997,26th September,?,Individual,?,?,?,?,
-1997,26th September,?,Team,?,?,30,300,
-1996,17th October,?,?,?,?,?,?,
-1996,?,?,?,?,?,?,?,
-1996,?,?,?,?,?,?,?,
-1996,?,?,?,?,?,?,?,
-1996,?,?,?,?,Screentest,?,?,
-1996,?,?,?,?,?,?,?,
-1996,?,?,?,?,?,?,?,
-1996,19th October,?,?,?,?,?,?,
-1995,?,?,?,?,?,?,?,
-1994,?,?,?,?,?,?,?,
-1993,?,?,?,?,?,?,?,
-1992,?,?,Individual,?,Assorted Brainteasers,75,?,
-1992,?,?,Individual,?,Sliding-Block Puzzle,30,?,
-1992,?,?,Individual,?,Tangram Variations,30,?,
-1992,?,?,Individual,?,Diagramless Crisscross,20,?,
-1992,?,?,Team,?,Memory Test,20,?,
-1992,?,?,Individual,?,Battleships,30,?,
-1992,?,?,Individual,?,Word Interlock Puzzle,20,?,
-1992,?,?,Individual,?,Hidden Picture Puzzles,15,?,
-1992,?,?,Individual,?,Word Search,20,?,
-1992,?,?,Individual,?,Counter-Jumping Puzzle,20,?,
-1992,?,?,Team,?,????,?,?,
-1992,?,?,Team,?,????,?,?,
+2022,20th October,09:00 - 10:00,Individual,Round 1,Countdown,60,450
+2022,20th October,10:15 - 10:45,Individual,Round 2,Araf Variations,30,300
+2022,20th October,11:00 - 12:30,Individual,Round 3,New Generation,90,900
+2022,20th October,14:00 - 15:00,Individual,Round 4,Ring of Pain,60,600
+2022,20th October,15:10 - 15:55,Individual,Round 5,Snake Variations,45,450
+2022,20th October,16:10 - 17:10,Individual,Round 6,Nightmare in Cracow,60,600
+2022,20th October,17:30 - 18:45,Team,Round 7,Pieces,75,3200
+2022,21st October,09:00 - 09:29,Individual,Round 8,29 Under 29,29,290
+2022,21st October,09:45 - 11:00,Individual,Round 9,E Pluribus Duo,75,750
+2022,21st October,11:15 - 12:15,Individual,Round 10,Several Unsurprising Solves,60,600
+2022,21st October,14:00 - 14:45,Individual,Round 11,(Anti)Knight,45,450
+2022,21st October,15:00 - 15:45,Individual,Round 12,No Four in a Row,45,450
+2022,21st October,16:00 - 17:15,Individual,Round 13,Boss Rush,75,1000
+2022,21st October,17:45 - 18:30,Team,Round 14,Pairs,45,1800
+2022,22nd October,09:00 - 10:30,Team,Round 15,Tournament,90,4400
+2019,3rd October,09:00 - 09:30,Individual,Round 1,Welcome,30,350
+2019,3rd October,09:45 - 11:15,Individual,Round 2,Assorted Puzzles,90,1100
+2019,3rd October,11:30 - 12:15,Individual,Round 3,Permaculture,45,450
+2019,3rd October,15:00 - 15:30,Individual,Round 4,Roundabout,30,250
+2019,3rd October,15:45 - 16:45,Individual,Round 5,German Style Puzzles,60,700
+2019,3rd October,17:15 - 18:00,Team,Round 6,Patches,45,2000
+2019,3rd October,18:15 - 19:00,Team,Round 7,Worms,45,1800
+2019,4th October,09:00 - 10:00,Individual,Round 8,Twilight,60,600
+2019,4th October,10:15 - 10:45,Individual,Round 9,Miniatures,30,250
+2019,4th October,11:00 - 12:15,Individual,Round 10,WPC 28,75,850
+2019,4th October,15:00 - 16:00,Individual,Round 11,Irregular,60,700
+2019,4th October,16:15 - 17:15,Individual,Round 12,Innovations,60,700
+2019,4th October,17:45 - 19:00,Team,Round 13,Loopfinder,75,3000
+2019,5th October,09:00 - 09:35,Individual,Round 14,Jigsaw Kropki,35,300
+2018,8th November,09:00 - 09:45,Individual,Round 1,Shading,45,590
+2018,8th November,10:00 - 10:40,Individual,Round 2,Objects,40,430
+2018,8th November,11:05 - 12:05,Individual,Round 3,Skyscrapers,60,595
+2018,8th November,14:00 - 15:00,Individual,Round 4,Polygons,60,750
+2018,8th November,15:15 - 16:45,Individual,Round 5,Variations,90,1025
+2018,8th November,17:10 - 18:40,Individual,Round 6,Combinations,90,930
+2018,9th November,09:00 - 09:45,Individual,Round 7,Paths,45,550
+2018,9th November,10:00 - 10:45,Individual,Round 8,Dissections,45,580
+2018,9th November,11:10 - 12:10,Individual,Round 9,Numbers,60,800
+2018,9th November,14:00 - 14:45,Individual,Round 10,Double Trouble,45,450
+2018,9th November,15:00 - 15:45,Individual,Round 11,Regional,45,590
+2018,9th November,16:00 - 17:00,Individual,Round 12,Innovative,60,690
+2018,9th November,17:25 - 17:55,Team,Team Round 1,Combined,30,1800
+2018,9th November,18:10 - 18:55,Team,Team Round 2,Hexa,45,3000
+2018,10th November,09:00 - 10:30,Individual,Round 13,Twisted,90,810
+2018,10th November,10:00 - 11:30,Team,Team Round 3,Ariadne's Thread,90,4800
+2017,19th October,09:00 - 09:40,Individual,Round 1,Road To Bangalore,40,450
+2017,19th October,09:50 - 10:50,Individual,Round 2,Indian Puzzle Land,60,600
+2017,19th October,11:05 - 12:30,Individual,Round 3,Evergreens,85,900
+2017,19th October,14:00 - 15:00,Individual,Round 4,Twist,60,600
+2017,19th October,15:10 - 15:50,Individual,Round 5,Hexed and Remixed,40,400
+2017,19th October,16:00 - 16:45,Individual,Round 6,TVC,45,450
+2017,19th October,17:05 - 17:40,Team,Round 7,Deception,35,1400
+2017,19th October,17:50 - 18:30,Team,Round 8,Kashmir Carpet,40,1600
+2017,20th October,09:00 - 10:50,Individual,Round 9,Marathon,110,1100
+2017,20th October,11:05 - 12:05,Individual,Round 10,Parallel Universe,60,650
+2017,20th October,12:15 - 12:40,Individual,Round 11,SVC,25,250
+2017,20th October,14:10 - 14:50,Individual,Round 12,123 GO,40,450
+2017,20th October,15:00 - 15:40,Individual,Round 13,No Numbers,40,400
+2017,20th October,15:50 - 16:20,Individual,Round 14,Fillomino-Fillia,30,300
+2017,20th October,16:50 - 17:40,Team,Round 15,Loop Pool,50,2500
+2017,20th October,17:50 - 18:25,Team,Round 16,Sampler Platter,35,#
+2017,21st October,09:00 - 10:00,Individual,Round 17,FAST,60,600
+2017,21st October,10:10 - 11:30,Individual,Round 18,PIC,80,1000
+2017,21st October,11:45 - 12:25,Individual,Round 19,Logidoku,40,500
+2017,21st October,13:55 - 14:25,Individual,Round 20,Puzzle Fusion,30,350
+2017,21st October,14:35 - 14:50,Individual,Round 21,Broken Pieces,15,160
+2017,21st October,15:15 - 15:55,Team,Round 22,Don't Worry Be Happy,40,1600
+2017,21st October,16:10 - 17:00,Team,Round 23,Word Show,50,2500
+2016,20th October,09:00 - 09:25,Individual,Round 1,Slovakia,25,300
+2016,20th October,09:25 - 11:10,Individual,Round 2,Miscellaneous,90,1100
+2016,20th October,11:30 - 12:30,Individual,Round 3,Kropki,60,750
+2016,20th October,14:10 - 14:45,Individual,Round 4,Full Classics,35,430
+2016,20th October,15:00 - 16:00,Individual,Round 5,Finest Collection,60,720
+2016,20th October,16:15 - 16:40,Individual,Round 6,Superpositions,25,300
+2016,20th October,17:00 - 17:30,Individual,Round 7,Outside The Box,30,360
+2016,20th October,17:45 - 18:30,Individual,Round 8,Oldish Style,45,650
+2016,21st October,09:00 - 10:40,Individual,Round 9,Classics,100,1200
+2016,21st October,11:00 - 11:35,Individual,Round 10,Myopia,35,350
+2016,21st October,11:50 - 12:35,Individual,Round 11,Newish Style,45,650
+2016,21st October,14:10 - 15:25,Individual,Round 12,Assorted,75,900
+2016,21st October,15:40 - 16:20,Individual,Round 13,Irregular Classics,40,500
+2016,21st October,17:00 - 17:30,Team,Round 14,Perplexity,30,1400
+2016,21st October,17:40 - 18:30,Team,Round 15,Toroidal,50,2000
+2016,22nd October,09:00 - 09:30,Team,Round 16,Stickers,30,1200
+2016,22nd October,09:45 - 10:15,Team,Round 17,Pentominoes,30,1500
+2015,15th October,09:00 - 09:50,Individual,Round 1,Welcome,50,400
+2015,15th October,10:00 - 11:00,Individual,Round 2,Classics,60,600
+2015,15th October,11:20 - 12:50,Individual,Round 3,Latin Squares,90,950
+2015,15th October,14:30 - 15:30,Individual,Round 4,Pathfinder,60,620
+2015,15th October,15:50 - 17:00,Individual,Round 5,Hybrids,70,700
+2015,15th October,17:10 - 17:40,Individual,Round 6,Poker Battle,30,200
+2015,15th October,18:10 - 18:50,Team,Round 7,Color Me in,40,2000
+2015,16th October,09:00 - 09:50,Individual,Round 8,Instructionless,50,500
+2015,16th October,10:00 - 10:50,Individual,Round 9,Different Areas,50,500
+2015,16th October,11:10 - 12:50,Individual,Round 10,Something Different,100,1135
+2015,16th October,14:30 - 15:00,Individual,Round 11,Sprint,30,365
+2015,16th October,15:20 - 16:50,Individual,Round 12,Tough Puzzles,90,900
+2015,16th October,17:20 - 18:20,Team,Round 13,Domino Yin-Yang,60,3000
+2015,17th October,09:00 - 10:00,Team,Round 14,Encrypted,60,3000
+2014,14th August,09:10 - 10:00,Individual,Round 1,Welcome,50,750
+2014,14th August,10:15 - 10:45,Individual,Round 2,The Great Outdoors,30,450
+2014,14th August,11:05 - 13:05,Individual,Round 3,Classics,120,1800
+2014,14th August,14:30 - 15:30,Individual,Round 4,Latin Squares,60,900
+2014,14th August,15:45 - 16:30,Individual,Round 5,On Your Own,45,600
+2014,14th August,16:45 - 17:15,Individual,Round 6,Sprint,30,600
+2014,14th August,17:45 - 18:45,Team,Round 7,Table for Four,60,3600
+2014,15th August,09:00 - 10:00,Individual,Round 8,English Country Garden,60,900
+2014,15th August,10:15 - 11:15,Individual,Round 9,Loop the Loop,60,900
+2014,15th August,11:30 - 13:00,Individual,Round 10,The 200 Club,90,2000
+2014,15th August,14:15 - 15:15,Individual,Round 11,Not Quite Classics,60,1200
+2014,15th August,15:30 - 16:30,Individual,Round 12,Something Different,60,1200
+2014,15th August,16:45 - 17:30,Individual,Round 13,Afternoon Tea,45,670
+2014,15th August,17:45 - 18:45,Team,Round 14,Doppelgangers,60,3600
+2014,16th August,09:30 - 10:45,Team,Round 15,Square Bashing,60,4600
+2013,23rd October,09:00 - 10:00,Team,Part 1,Welcome to China!,60,2000
+2013,23rd October,10:20 - 11:20,Individual,Part 2,Classic Puzzles,60,600
+2013,23rd October,11:40 - 12:20,Individual,Part 3,Digital Puzzles,40,400
+2013,23rd October,14:15 - 15:15,Individual,Part 4,Dutch Delight,60,817*
+2013,23rd October,15:30 - 16:30,Individual,Part 5,Indian Intrigue,60,828*
+2013,23rd October,16:45 - 17:45,Individual,Part 6,Doubled Decathlon,60,820*
+2013,23rd October,18:00 - 19:00,Individual,Part 7,Serbian Snacks,60,770*
+2013,24th October,09:00 - 10:00,Individual,Part 8,Black and White Matrix,60,600
+2013,24th October,10:20 - 11:50,Individual,Part 9,Assorted Puzzles,90,900
+2013,24th October,12:10 - 12:40,Individual,Part 10,Sprint,30,300
+2013,24th October,14:30 - 15:00,Individual,Part 11,Visual Puzzles,30,300
+2013,24th October,15:20 - 16:05,Individual,Part 12,The Zodiac,45,450
+2013,24th October,16:40 - 17:40,Team,Round 13,Weakest Link Samurai,60,2000
+2013,24th October,18:00 - 19:00,Team,Round 14,Year of Snake,60,2000
+2012,4th October,10:00 - 10:30,Individual,Part 1,Domino Hunt,30,60
+2012,4th October,10:45 - 12:45,Individual,Part 2,Blackjack,120,240
+2012,4th October,14:45 - 15:45,Individual,Part 3,Twisted Puzzles,60,120
+2012,4th October,16:00 - 16:30,Individual,Part 4,Easy as ABC,30,60
+2012,4th October,16:45 - 18:15,Individual,Part 5,Black and White,90,180
+2012,4th October,18:45 - 19:10,Team,Part 6,Marina,25,400
+2012,5th October,09:30 - 10:30,Individual,Part 7,Lines & Arrows,60,120
+2012,5th October,10:45 - 11:45,Individual,Part 8,Assorted Puzzles,60,120
+2012,5th October,12:00 - 12:30,Individual,Part 9,Metropolis,30,60
+2012,5th October,14:30 - 16:00,Individual,Part 10,Anthology,90,180
+2012,5th October,16:15 - 17:15,Individual,Part 11,Something Newish,60,120
+2012,5th October,17:30 - 18:20,Individual,Part 12,Half Dominoes,50,100
+2012,5th October,19:00 - 19:45,Team,Part 13,Messed Up Link,45,400
+2011,10th November,09:20 - 09:50,Individual,Part 1,In Memoriam,30,400
+2011,10th November,10:00 - 11:00,Individual,Part 2,Assorted Puzzles,60,870
+2011,10th November,11:10 - 12:00,Individual,Part 3,Cows,50,420
+2011,10th November,13:50 - 14:20,Individual,Part 4,Borderless,30,430
+2011,10th November,14:30 - 15:40,Individual,Part 5,Evergreens,70,750
+2011,10th November,16:30 - 17:10,Team,Part 6,Board Games,40,800
+2011,10th November,17:30 - 18:30,Team,Part 7,Naval Puzzles,60,1600
+2011,11th November,09:00 - 09:30,Individual,Part 8,Screen Test,30,200
+2011,11th November,09:45 - 10:15,Individual,Part 9,Sprint,30,300
+2011,11th November,10:30 - 11:00,Individual,Part 10,Divide and Conquer,30,400
+2011,11th November,11:11 - 11:55,Individual,Part 11,Magic 11,44,550
+2011,11th November,13:30 - 14:50,Individual,Part 12,Hungaricum,80,1115
+2011,11th November,15:00 - 16:00,Individual,Part 13,Innovative,60,940
+2011,11th November,17:20 - 18:20,Individual,Part 14,Best of,60,770
+2011,12th November,09:00 - 10:00,Team,Part 15,Wrong Puzzles!,60,1200
+2010,26th October,09:30 - 09:49,Individual,Part 1,Welcome,19,113
+2010,26th October,????,Individual,Part 2,Classics of WPC,60,300
+2010,26th October,????,Individual,Part 3,Married Puzzles,45,225
+2010,26th October,12:10 - 13:00,Team,Part 4,Anaconda,50,900
+2010,26th October,14:30 - 15:30,Individual,Part 5,Innovations,60,300
+2010,26th October,????,Individual,Part 6,Even/Odd,45,225
+2010,26th October,16:30 - 17:00,Team,Part 7,Sym-a-Pix,30,600
+2010,27th October,09:30 - 09:55,Individual,Part 8,Sprint,25,125
+2010,27th October,????,Individual,Part 9,Assorted,90,450
+2010,27th October,????,Individual,Part 10,Spherical Operations,25,#
+2010,27th October,???? - 13:00,Team,Part 11,"Operation ""Kuznia""",30,600
+2010,27th October,14:30 - 15:30,Individual,Part 12,Poliomino,60,300
+2010,27th October,????,Individual,Part 13,Broken Puzzles,45,225
+2010,27th October,16:20 - 17:00,Team,Part 14,Slither Link = Weakest Link,40,800
+2010,28th October,09:00 - 09:15,Individual,Part 15,Screen Test,15,114
+2009,5th November,09:30 - 09:50,Team,Part 1,Welcome,20,478*
+2009,5th November,10:10 - 10:30,Individual,Part 2,Sprint,20,100
+2009,5th November,10:40 - 12:10,Individual,Part 3,Classics,90,450
+2009,5th November,12:25 - 12:55,Individual,Part 4,Optimization,30,213*
+2009,5th November,14:15 - 15:45,Individual,Part 5,Innovative,90,450
+2009,5th November,16:15 - 16:30,Individual,Part 6,Screen Test 1 - Match Math,15,80
+2009,5th November,16:35 - 17:00,Individual,Part 7,Battleships,25,140
+2009,5th November,17:15 - 18:00,Team,Part 8,The Weakest Link,45,900
+2009,6th November,09:30 - 09:50,Individual,Part 9,Screen Test 2 - Assorted,20,80
+2009,6th November,09:55 - 10:30,Individual,Part 10,Tapa,35,200
+2009,6th November,10:40 - 11:40,Individual,Part 11,Matchmaker,60,315
+2009,6th November,12:00 - 12:30,Team,Part 12,Four By Four For The Four,30,600
+2009,6th November,14:00 - 14:25,Individual,Part 13,Instructionless,25,135
+2009,6th November,14:35 - 16:45,Individual,Part 14,Best of OAPC,130,750
+2009,6th November,17:10 - 17:40,Individual,Part 15,Upgrade,30,150
+2009,6th November,18:00 - 18:30,Team,Part 16,WPF,30,600
+2008,29th October,10:00 - 10:35,Individual,Part I,Welcome,35,140
+2008,29th October,10:45 - 12:45,Individual,Part II,Mixture,120,400
+2008,29th October,13:00 - 13:30,Team,Part III,Six Squares,30,300
+2008,29th October,15:00 - 16:00,Team,Part IV,Weakest Link,60,750
+2008,29th October,16:15 - 16:50,Individual,Part V,False Start,35,130
+2008,29th October,17:00 - 18:00,Individual,Part VI,Giant Part,60,200
+2008,30th October,10:00 - 10:30,Individual,Part VII,Sprint,30,120
+2008,30th October,10:40 - 12:40,Individual,Part VIII,Assorted,120,400
+2008,30th October,12:50 - 13:30,Team,Part IX,Manipulative,40,950
+2008,30th October,15:00 - 15:30,Team,Part X,Chrono Part,30,400
+2008,30th October,15:50 - 16:50,Individual,Part XI,Crypto Part,60,200
+2008,30th October,17:00 - 18:00,Individual,Part XII,Cards,60,200
+2007,8th October,09:00 - 09:40,Individual,Part 1,Welcome,40,200
+2007,8th October,10:00 - 11:30,Individual,Part 2,Classics,90,450
+2007,8th October,12:00 - 12:20,Team,Part 3,Multi-Sudoku,20,300
+2007,8th October,14:00 - 15:00,Individual,Part 4,Innovatives,60,300
+2007,8th October,15:30 - 16:10,Individual,Part 5,"Words, words",40,150
+2007,8th October,16:30 - 17:30,Team,Part 6,The Weakest Link,60,900
+2007,9th October,09:00 - 09:40,Individual,Part 7,Varia,40,205
+2007,9th October,10:00 - 11:30,Individual,Part 8,Circular,90,455
+2007,9th October,12:00 - 12:20,Individual,Part 9,Screen Test,20,100
+2007,9th October,14:00 - 14:30,Individual,Part 10,Four Wind in Faces,30,150
+2007,9th October,15:00 - 15:40,Individual,Part 11,Images,40,200
+2007,9th October,16:00 - 17:30,Team,Part 12,Incredible Office Machine,90,1068*
+2006,9th October,09:45 - 10:25,Individual,Part 1,Welcome,40,200
+2006,9th October,10:35 - 12:05,Individual,Part 2,Assorted,90,500
+2006,9th October,12:15 - 12:30,Individual,Part 3,Screen Test,15,100
+2006,9th October,14:00 - 15:00,Individual,Part 4,Paint-by-Numbers,60,350
+2006,9th October,15:10 - 16:40,Individual,Part 5,Assorted,90,500
+2006,9th October,17:00 - 17:40,Team,Part 6,Skyscrapers,40,600
+2006,10th October,09:30 - 09:55,Individual,Part 7,Sprint,25,150
+2006,10th October,10:05 - 11:35,Individual,Part 8,Assorted,90,500
+2006,10th October,11:45 - 12:25,Individual,Part 9,Twins,40,200
+2006,10th October,14:00 - 14:40,Individual,Part 10,Hexagonal,40,200
+2006,10th October,14:50 - 16:20,Individual,Part 11,Assorted,90,500
+2006,10th October,16:40 - 17:40,Team,Part 12,The Weakest Link,60,750
+2006,11th October,09:30 - 10:00,Individual,Part 13,Mitre Square,30,100
+2006,11th October,10:20 - 11:00,Team,Part 14,Metatour,40,500
+2005,10th October,10:10 - 10:40,Individual,Part 1,Eger Grand Prix,30,400
+2005,10th October,10:50 - 11:20,Individual,Part 2,Streets,30,250
+2005,10th October,11:40 - 12:10,Team,Part 3,Tantrix,30,700
+2005,10th October,14:30 - 15:00,Individual,Part 4,Evergreens,30,250
+2005,10th October,15:40 - 16:50,Individual,Part 5,Hungarian Style,90,1000
+2005,10th October,17:00 - 17:30,Individual,Part 6,Spider Web,30,250
+2005,11th October,09:30 - 10:30,Individual,Part 7,Classics,60,700
+2005,11th October,10:40 - 11:10,Individual,Part 8,Fifty-Fifty,30,250
+2005,11th October,11:50 - 12:10,Individual,Part 9,Screentest,20,200
+2005,11th October,14:15 - 14:45,Team,Part 10,The Weakest Link,30,700
+2005,11th October,15:10 - 16:50,Individual,Part 11,Innovative,100,1100
+2005,11th October,17:00 - 17:30,Team,Part 12,Jigsaw Puzzle,30,700
+2004,14th October,10:00 - 11:31,Individual,Part 1,Classical Puzzles,91,200
+2004,14th October,11:44 - 12:23,Team,Part 2,Assorted Puzzles,39,800
+2004,14th October,14:30 - 14:56,Individual,Part 3,Medley,26,100
+2004,14th October,15:09 - 16:40,Individual,Part 4,"Memories, Memories...",91,200
+2004,14th October,16:53 - 17:32,Individual,Part 5,Sprint I: Lucky Thirteen,39,78
+2004,14th October,17:45 - 18:39,Team,Part 6,Jigsaw Puzzle,52,160
+2004,15th October,09:30 - 11:01,Individual,Part 7,Pentominoes & Arrows,91,200
+2004,15th October,11:14 - 11:53,Individual,Part 8,Optimizers,39,100
+2004,15th October,12:06 - 12:32,Team,Part 9,Connecting Link,26,800
+2004,15th October,14:30 - 15:09,Individual,Part 10,Sprint II: Mastermind,39,78
+2004,15th October,15:22 - 16:53,Individual,Part 11,Innovative,91,300
+2004,15th October,17:06 - 17:52,Team,Part 12,Card Composition,26,78
+2003,16th October,09:30 - 10:30,Individual,Part I,The Dirty Dozen,60,230
+2003,16th October,10:30 - 12:30,Individual,Part II,Assorted Puzzles,120,400
+2003,16th October,14:00 - 14:30,Individual,Part III,Sprint,30,100
+2003,16th October,14:30 - 14:55,Individual,Part IV,Medley,25,50
+2003,16th October,15:30 - 16:15,Team,Part V,Assorted Puzzles,45,150
+2003,16th October,16:15 - 16:30,Team,Part VI,Crossword Maze,15,300*
+2003,17th October,09:30 - 10:15,Individual,Part VII,Dominoes,45,120
+2003,17th October,10:15 - 12:15,Individual,Part VIII,Assorted Puzzles II,120,400
+2003,17th October,14:00 - 14:45,Individual,Part IX,Battleships,45,120
+2003,17th October,14:45 - 15:15,Individual,Part X,Meander,30,60
+2003,17th October,15:45 - 16:15,Team,Part XI,City Map,30,279*
+2003,17th October,16:30 - 17:00,Team,Part XII,The Weakest Link,30,125
+2003,18th October,09:30 - 09:55,Individual,Part XIII,ABC,25,25
+2003,18th October,10:30 - 11:00,Team,Part XIV,Blocks,30,125
+2002,26th September,????,Individual,Part 1,Part 1,90,168
+2002,26th September,????,Individual,Part 2,Part 2,45,40
+2002,26th September,????,Individual,Part 3,Part 3,75,70
+2002,26th September,????,Team,Part 4,Part 4,90,240
+2002,27th September,????,Individual,Part 5,Part 5,90,148
+2002,27th September,????,Individual,Part 6,Part 6,75,72*
+2002,27th September,????,Individual,Part 7,Part 7,90,138
+2002,27th September,????,Team,Part 8,Part 8,75,350
+2001,10th October,????,Individual,Part 1,Part 1,90,???
+2001,10th October,????,Individual,Part 2,Part 2,90,???
+2001,10th October,????,Individual,Part 3,Part 3,12,100
+2001,10th October,????,Individual,Part 4,Part 4,??,???
+2001,10th October,????,Individual,Part 5,Part 5,??,???
+2001,10th October,????,Individual,Part 6,Part 6,90,???
+2001,11th October,????,Individual,Part 7,Part 7,90,???
+2001,11th October,????,Individual,Part 8,Part 8,??,70
+2001,11th October,????,Individual,Part 9,Part 9,??,???
+2001,11th October,????,Individual,Part 10,Part 10,??,???
+2001,11th October,????,Team,Part 11,Part 11,??,???
+2001,12th October,????,Team,Part 12,Part 12,??,???
+2001,12th October,????,Team,Part 13,Part 13,??,???
+2001,12th October,????,Team,Part 14,Part 14,??,???
+2001,12th October,????,Team,Part 15,Part 15,??,???
+2000,13th October,????,Individual,Part I,Assorted Puzzles,120,???
+2000,13th October,????,Individual,Part II,Lunar Lockout,45,95
+2000,13th October,????,Team,Part III,Multi-Level Block Maze,35,200
+2000,13th October,????,Individual,Part IV,Manipulative Puzzles,45,120
+2000,14th October,????,Individual,Part V,Battleship Variations,90,???
+2000,14th October,????,Team,Part VI,Potato Appeal,150,1150
+2000,14th October,????,Individual,Part VII,Optimization,45,???
+2000,14th October,????,Individual,Part VIII,Assorted Puzzles,150,???
+1999,6th October,????,Team,Part 1,????,35,1000
+1999,6th October,15:30 - 18:00,Individual,Part 2,Classics,150,1430
+1999,7th October,09:00 - 09:35,Individual,Part 3,Optimizer,35,276*
+1999,7th October,09:40 - 10:15,Individual,Part 4,Crack It On!,35,300
+1999,7th October,10:45 - 13:15,Individual,Part 5,Innovative,150,1430
+1999,7th October,????,Team,Part 6,????,??,1500
+1999,7th October,15:40 - 16:15,Individual,Part 7,Honey Islands,35,300
+1999,7th October,16:45 - 17:20,Individual,Part 8,The Giant Octopus,35,320
+1999,7th October,17:25 - 18:00,Individual,Part 9,Battleship Varia,35,300
+1999,8th October,09:00 - 11:30,Individual,Part 10,Mix,150,1430
+1999,8th October,????,Team,Part 11,????,??,1000
+1998,24th September,09:15 - 10:45,Individual,Part 1,Part 1,90,280
+1998,24th September,11:00 - 11:20,Individual,Part 2,Part 2,20,20
+1998,24th September,11:30 - 12:10,Individual,Part 3,Part 3,40,50
+1998,24th September,12:15 - 13:00,Individual,Part 4,Part 4,45,?
+1998,24th September,14:00 - 15:30,Individual,Part 5,Part 5,90,320
+1998,24th September,15:50 - 17:30,Team,Part 6,Part 6,90,355
+1998,25th September,10:00 - 11:30,Individual,Part 7,Part 7,90,320
+1998,25th September,11:45 - 12;05,Individual,Part 8,Part 8,20,25
+1998,25th September,12:10 - 12:50,Individual,Part 9,Part 9,40,?
+1998,25th September,14:00 - 16:00,Individual,Part 10,Part 10,120,379
+1998,25th September,16:20 - 16:50,Individual,Part 11,Part 11,30,50
+1998,25th September,17:10 - 17:35,Team,Part 12,Part 12,30,400
+1997,25th September,?,Individual,?,?,150,?
+1997,25th September,?,Individual,?,?,150,?
+1997,26th September,?,Individual,?,?,90,?
+1997,26th September,?,Individual,?,?,?,?
+1997,26th September,?,Team,?,?,30,300
+1996,17th October,?,?,?,?,?,?
+1996,?,?,?,?,?,?,?
+1996,?,?,?,?,?,?,?
+1996,?,?,?,?,?,?,?
+1996,?,?,?,?,Screentest,?,?
+1996,?,?,?,?,?,?,?
+1996,?,?,?,?,?,?,?
+1996,19th October,?,?,?,?,?,?
+1995,?,?,?,?,?,?,?
+1994,?,?,?,?,?,?,?
+1993,?,?,?,?,?,?,?
+1992,?,?,Individual,?,Assorted Brainteasers,75,?
+1992,?,?,Individual,?,Sliding-Block Puzzle,30,?
+1992,?,?,Individual,?,Tangram Variations,30,?
+1992,?,?,Individual,?,Diagramless Crisscross,20,?
+1992,?,?,Team,?,Memory Test,20,?
+1992,?,?,Individual,?,Battleships,30,?
+1992,?,?,Individual,?,Word Interlock Puzzle,20,?
+1992,?,?,Individual,?,Hidden Picture Puzzles,15,?
+1992,?,?,Individual,?,Word Search,20,?
+1992,?,?,Individual,?,Counter-Jumping Puzzle,20,?
+1992,?,?,Team,?,????,?,?
+1992,?,?,Team,?,????,?,?
